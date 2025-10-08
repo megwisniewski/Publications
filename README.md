@@ -8,6 +8,6 @@ During my time as a Statistician at the U.S. Census Bureau, I primarily worked w
 - [Unequally Essential: Women and the Gender Pay Gap During COVID-19](https://www.census.gov/library/stories/2021/03/unequally-essential-women-and-gender-pay-gap-during-covid-19.html)
 - [Housing Costs Burden Americans Differently Across the U.S.](https://www.census.gov/library/stories/2022/12/housing-costs-burden.html)
 
-I am also a co-author on a peer-reviewed Social Science & Medicine article entitled: ["Clinic access and teenage birth rates: Racial/ethnic and spatial disparities in Houston, TX"] (https://www.sciencedirect.com/science/article/abs/pii/S0277953618300650) published in 2018. 
+I am also a co-author on a peer-reviewed Social Science & Medicine article entitled: ["Clinic access and teenage birth rates: Racial/ethnic and spatial disparities in Houston, TX"](https://www.sciencedirect.com/science/article/abs/pii/S0277953618300650) published in 2018. 
 
 Please feel free to contact me with any questions: meganwis *at* upenn *dot* edu. Thanks for stopping by!
