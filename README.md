@@ -10,4 +10,4 @@ During my time as a Statistician at the U.S. Census Bureau, I primarily worked w
 
 I am also a co-author on a peer-reviewed Social Science & Medicine article entitled: ["Clinic access and teenage birth rates: Racial/ethnic and spatial disparities in Houston, TX"](https://www.sciencedirect.com/science/article/abs/pii/S0277953618300650) published in 2018. 
 
-Please feel free to contact me with any questions: meganwis *at* upenn *dot* edu. Thanks for stopping by!
+Please feel free to contact me with any questions: meganwis *at* sas *dot* upenn *dot* edu. Thanks for stopping by!
