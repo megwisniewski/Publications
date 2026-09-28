@@ -1,4 +1,4 @@
-Hello! I am Megan Wisniewski, a PhD student in Demography and Sociology at the University of Pennsylvania. I earned my Master’s degree in Statistics and Data Science from the Wharton School in May of 2026.
+Hello! I am Megan Wisniewski, a PhD student in Demography and Sociology at the University of Pennsylvania. I recently earned my Master’s degree in Statistics and Data Science from the Wharton School in May of 2026.
 
 My research broadly focuses on labor force economics, ranging from occupational coding to healthy working life expectancy. Before beginning my PhD, I worked as a Statistician at the U.S. Census Bureau in the Industry & Occupation Statistics Branch. 
 
